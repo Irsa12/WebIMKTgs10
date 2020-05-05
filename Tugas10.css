@@ -1,0 +1,38 @@
+body{
+	background-color:#aacfcf;
+	font-family:roboto;
+	color: #48d1cc;
+}
+.header a{
+	text-decoration:none;
+	color: #679b9b;
+	padding:3px;
+}
+
+.hr{
+	border-style: none;
+	border-top-style: groove;
+	border-color:#48d1cc;
+	border-width:2px;
+	width:34%;
+}
+.Jenjang {
+	background-color:#679b9b;
+	font-family:courier;
+	color:#2f4f4f;
+}
+.Organisasi{
+	background-color:#008b8b;
+	font-family:Courier New;
+	color:black;
+}
+.Matkul{
+	background-color:#679b9b;
+	font-family:Bookman Old Style;
+	color:#48d1cc;
+}
+#heading{
+	color: #679b9b;
+	font-family: Verdana;
+}
+
